@@ -1,0 +1,1 @@
+Al usar add * se agregaran todos los archivos en el directorio actual, exepto los archivos que sus nombre empiecen con punto, ya que se considera que son los archivos ocultos que genera el mismo sistema operativo, que en cambio si se usa add . si añadirá los archivos cuyos nombres empiecen con punto.
